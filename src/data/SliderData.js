@@ -38,37 +38,37 @@ export const SliderData=[
     }
 ];
 
-export const SliderDataTwo=[
-    {
-        title:'Hous in Las Vegas,Nevada',
-        price:'$4,280,000',
-        path:'/homes',
-        label:'View Home',
-        image:ImageFive,
-        alt:'House'
-    },
-    {
-        title:'Hous in Housten,Texas',
-        price:'$4,280,000',
-        path:'/homes',
-        label:'View Home',
-        image:ImageSix,
-        alt:'House'
-    },
-    {
-        title:'Hous in Paris,Fransa',
-        price:'$4,280,000',
-        path:'/homes',
-        label:'View Home',
-        image:ImageSeven,
-        alt:'House'
-    },
-    {
-        title:'Hous in Istanbul,Turkey',
-        price:'$3,680,000',
-        path:'/homes',
-        label:'View Home',
-        image:ImageEight,
-        alt:'House'
-    }
-]
+// export const SliderDataTwo=[
+//     {
+//         title:'Hous in Las Vegas,Nevada',
+//         price:'$4,280,000',
+//         path:'/homes',
+//         label:'View Home',
+//         image:ImageFive,
+//         alt:'House'
+//     },
+//     {
+//         title:'Hous in Housten,Texas',
+//         price:'$4,280,000',
+//         path:'/homes',
+//         label:'View Home',
+//         image:ImageSix,
+//         alt:'House'
+//     },
+//     {
+//         title:'Hous in Paris,Fransa',
+//         price:'$4,280,000',
+//         path:'/homes',
+//         label:'View Home',
+//         image:ImageSeven,
+//         alt:'House'
+//     },
+//     {
+//         title:'Hous in Istanbul,Turkey',
+//         price:'$3,680,000',
+//         path:'/homes',
+//         label:'View Home',
+//         image:ImageEight,
+//         alt:'House'
+//     }
+// ]
