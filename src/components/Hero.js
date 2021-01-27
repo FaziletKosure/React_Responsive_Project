@@ -146,7 +146,8 @@ const Hero = ({slides}) => {
             {slides.map((slide,index)=>{
                 return(
                     <HeroSlide key={index}>
-                        <HeroSlider>
+                        {index===current &&(
+                            <HeroSlider>
                             <HeroImage src={slide.image} alt={slide.alt}/>
                             <HeroContent>
                               <h1>{slide.title}</h1>  
@@ -158,6 +159,8 @@ const Hero = ({slides}) => {
                             </HeroContent>
                                 
                         </HeroSlider>
+                        )}
+                        
                     </HeroSlide>
                 )
             }
